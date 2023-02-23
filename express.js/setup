@@ -1,0 +1,5 @@
+$ npm install node
+
+$ npm install express
+
+$ nom install express-generator -g
